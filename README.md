@@ -87,13 +87,17 @@
 
 | | |
 | :-- | :-- |
-
+| ⚡ **Superpower** | Googling error messages faster than a Grab rider on EDSA |
+| 🛡️ **Backend philosophy** | If it doesn't have `helmet`, `cors`, and `rate-limit` — it's not production |
+| ☕ **Powered by** | Kopiko 78°C and well-placed `console.log` statements |
+| 🔍 **Debug strategy** | `console.log("BAKIT GANITO")` — certified Filipino dev move |
 | 😱 **Worst fear** | Merge conflict at 5PM on a Friday |
 | 💙 **Life lesson** | `git stash` has saved more relationships than therapy |
 | 🎯 **2026 Goal** | Deploy to production without `--force pushing` 💀 |
 
 ---
 
+---
 
 <div align="center">
 
