@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&secondaryColor=0052D4&height=200&section=header&text=Ian%20Purcia&fontSize=70&animation=fadeIn&fontColor=ffffff&textBg=true&stroke=ffffff&strokeWidth=0.5" width="100%" />
 
   <br/>
 
@@ -68,10 +67,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052D4&icon_color=0052D4" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-languages?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0052D4" height="170px" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0052D4&ring=0052D4&fire=0052D4" width="100%" />
 </div>
 
 ---
