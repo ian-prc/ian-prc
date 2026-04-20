@@ -125,17 +125,6 @@
 ---
 
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-> _Automatically generated from GitHub contributions_
-
-</div>
 
 ---
 
