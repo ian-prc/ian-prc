@@ -87,7 +87,6 @@
 
 | | |
 | :-- | :-- |
-| ⚡ **Superpower** | Googling error messages faster than a Grab rider on EDSA |
 | 🛡️ **Backend philosophy** | If it doesn't have `helmet`, `cors`, and `rate-limit` — it's not production |
 | ☕ **Powered by** | Kopiko 78°C and well-placed `console.log` statements |
 | 🔍 **Debug strategy** | `console.log("BAKIT GANITO")` — certified Filipino dev move |
