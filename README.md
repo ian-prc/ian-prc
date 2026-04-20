@@ -87,12 +87,10 @@
 
 | | |
 | :-- | :-- |
-| 🛡️ **Backend philosophy** | If it doesn't have `helmet`, `cors`, and `rate-limit` — it's not production |
-| ☕ **Powered by** | Kopiko 78°C and well-placed `console.log` statements |
-| 🔍 **Debug strategy** | `console.log("BAKIT GANITO")` — certified Filipino dev move |
-| 😱 **Worst fear** | Merge conflict at 5PM on a Friday |
-| 💙 **Life lesson** | `git stash` has saved more relationships than therapy |
-| 🎯 **2026 Goal** | Deploy to production without `--force pushing` 💀 |
+|👀 **The Pressure**| Coding faster than a Grab rider kasi nakatayo si Supervisor sa likod ko.|
+| 😱 **Worst fear** | PLDT "Red Light" during a git push of 50+ changed files.|
+| 💙 **Life lesson** | Ang git stash ay parang pagwawalis ng kalat sa ilalim ng kama bago pumasok si Mama.|
+| 🎯 **2026 Goal** | To understand my own code from 6 months ago without crying.|
 
 ---
 
