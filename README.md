@@ -27,7 +27,7 @@
 
 ---
 
-## `$ whoami`
+
 
 ```json
 {
@@ -54,7 +54,7 @@
 
 ---
 
-## `$ ls ./tech-stack`
+
 
 <div align="center">
 
@@ -83,21 +83,17 @@
 
 ---
 
-## `$ cat quick_facts.txt`
+
 
 | | |
 | :-- | :-- |
-| ⚡ **Superpower** | Googling error messages faster than a Grab rider on EDSA |
-| 🛡️ **Backend philosophy** | If it doesn't have `helmet`, `cors`, and `rate-limit` — it's not production |
-| ☕ **Powered by** | Kopiko 78°C and well-placed `console.log` statements |
-| 🔍 **Debug strategy** | `console.log("BAKIT GANITO")` — certified Filipino dev move |
+
 | 😱 **Worst fear** | Merge conflict at 5PM on a Friday |
 | 💙 **Life lesson** | `git stash` has saved more relationships than therapy |
 | 🎯 **2026 Goal** | Deploy to production without `--force pushing` 💀 |
 
 ---
 
-## `$ git log --stat`
 
 <div align="center">
 
@@ -109,8 +105,6 @@
 
 ---
 
-## `$ git streak`
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=ianpurcia&hide_border=true&background=0a0a14&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=e0eeff&currStreakNum=e0eeff&sideNums=e0eeff&border_radius=6" width="60%"/>
@@ -119,7 +113,6 @@
 
 ---
 
-## `$ trophy --display`
 
 <div align="center">
 
@@ -129,7 +122,6 @@
 
 ---
 
-## `$ cat contribution_snake.svg`
 
 <div align="center">
 
@@ -139,13 +131,10 @@
   <img alt="contribution snake animation" src="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-> _Automatically generated from GitHub contributions_
-
 </div>
 
 ---
 
-## `$ fortune | cowsay`
 
 <div align="center">
 
@@ -157,8 +146,6 @@
 </div>
 
 ---
-
-## `$ cat contact.json`
 
 <div align="center">
 
