@@ -1,114 +1,89 @@
-# Hi there 👋, I'm Ian Purcia
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0052D4&height=200&section=header&text=Ian%20Purcia&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007BFF&height=150&section=header&text=Ian%20Purcia&fontSize=50&animation=fadeIn&fontColor=FFFFFF" alt="Ian Purcia Header Banner" />
-</p>
+  <br/>
 
-<p align="center">
-  <strong>Full-Stack Developer • MERN • Philippines 🇵🇭</strong>
-</p>
+  ### ⚡ Full-Stack Developer | IT Professional | Tech Enthusiast
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianpurcia@gmail.com)
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square&color=007BFF" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/repos/your-username?label=Public%20Repos&style=flat-square&color=007BFF" alt="Repos Badge" />
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=007BFF&style=flat-square" alt="Profile Views Badge" />
-</p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
-<hr />
+---
 
-<table width="100%">
+### 🚀 About Me
+
+<div align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-<pre>
-name: Ian Purcia
-location: Philippines 🇵🇭
-role: Full-Stack Developer
-education: Bachelor's Degree in Information Technology
-
-currently_building:
-  - "SecureAuth" — Advanced authentication middleware
-  - "DevConnect" — A networking platform for developers
-
-stack:
-  frontend: React, TypeScript, Tailwind CSS, Redux
-  backend: Node.js, Express, MongoDB, PostgreSQL
-</pre>
+      <h4>📍 Professional Profile</h4>
+      <ul>
+        <li>🔭 Currently working on <b>Full-Stack Inventory Systems</b>.</li>
+        <li>🌱 Specialized in <b>React, TypeScript, & Node.js</b>.</li>
+        <li>🏗️ Building scalable architectures with <b>Zustand & Express</b>.</li>
+        <li>🔒 Focused on <b>JWT Security & API Optimization</b>.</li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🚀 Quick Facts</h3>
+      <h4>💻 Tech Philosophy</h4>
       <ul>
-        <li>🔭 Currently refining scalable microservices architectures.</li>
-        <li>🌱 Deepening my knowledge in secure API design and OAuth 2.0.</li>
-        <li>💻 I find complex data structure challenges highly motivating.</li>
-        <li>⚡ Focus area: Implementing efficient caching strategies with Redis.</li>
-        <li>🛠️ Development Philosophy: Test-driven development yields robust software.</li>
-        <li>🎯 2026 Goal: Achieve AWS Certified Solutions Architect Associate status.</li>
-        <li>🧠 Critical Lesson: Continuous integration is key to team scalability.</li>
+        <li><b>Clean Code:</b> Prioritizing readability and modularity.</li>
+        <li><b>UX/UI:</b> Obsessed with <i>Glassmorphism</i> and dark aesthetics.</li>
+        <li><b>Problem Solving:</b> Debugging with logic, not just console logs.</li>
+        <li><b>Learning:</b> Currently exploring <i>Three.js</i> for 3D web.</li>
       </ul>
     </td>
   </tr>
 </table>
+</div>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+**Languages & Core**
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,java,php" />
+
+**Frontend Excellence**
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite,threejs" />
+
+**Backend & Database**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" />
+
+**Tools & Workflow**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
+
+</div>
+
+---
+
+### 📊 Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052D4&icon_color=0052D4" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0052D4" height="170px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0052D4&ring=0052D4&fire=0052D4" width="100%" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+</div>
 
 <br />
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=007BFF&height=35&section=header&text=🛠️%20Tech%20Stack&fontSize=20&fontColor=FFFFFF" alt="Tech Stack Header" />
-  <br />
-  <sub>What I Work With</sub>
-</p>
-
-<details open>
-<summary><b>💬 Languages</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/framer_motion-%230055FF.svg?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/react_router-%23CA4245.svg?style=flat-square&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-</details>
-
-<details open>
-<summary><b>⚙️ Backend</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/mongoose-%23880000.svg?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-</details>
-
-<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=slice&color=0052D4&height=100&section=footer" width="100%" />
+</div>
