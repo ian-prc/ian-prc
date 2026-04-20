@@ -36,20 +36,10 @@
   "role":      "Student & Full-Stack Developer (in progress)",
   "education": "Currently studying",
 
-  "currently_building": [
-    "Tasked & Confused — full-stack task manager",
-    "Because my own life needed a CRUD app"
-  ],
-
   "stack": {
     "frontend": ["React", "TypeScript", "Tailwind CSS", "Zustand"],
     "backend":  ["Express", "MongoDB", "Mongoose", "JWT"]
   },
-
-  "2026_goal":      "Deploy to production without --force pushing 💀",
-  "debug_strategy": "console.log('BAKIT GANITO') 🔍",
-  "powered_by":     "Kopiko 78°C ☕"
-}
 ```
 
 ---
