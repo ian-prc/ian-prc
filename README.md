@@ -1,45 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0052D4&height=200&section=header&text=Ian%20Purcia&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&secondaryColor=0052D4&height=250&section=header&text=IAN%20PURCIA&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=FULL%20STACK%20DEVELOPER%20|%20IT%20PROFESSIONAL&descSize=20&descAlignY=65" width="100%" />
 
   <br/>
 
-  ### ⚡ Full-Stack Developer | IT Professional | Tech Enthusiast
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_URL)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianpurcia@gmail.com)
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0052D4?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="mailto:ianpurcia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+  <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
 
-### 🚀 About Me
+### 🌌 Executive Summary
 
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 Professional Profile</h4>
-      <ul>
-        <li>🔭 Currently working on <b>Full-Stack Inventory Systems</b>.</li>
-        <li>🌱 Specialized in <b>React, TypeScript, & Node.js</b>.</li>
-        <li>🏗️ Building scalable architectures with <b>Zustand & Express</b>.</li>
-        <li>🔒 Focused on <b>JWT Security & API Optimization</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Tech Philosophy</h4>
-      <ul>
-        <li><b>Clean Code:</b> Prioritizing readability and modularity.</li>
-        <li><b>UX/UI:</b> Obsessed with <i>Glassmorphism</i> and dark aesthetics.</li>
-        <li><b>Problem Solving:</b> Debugging with logic, not just console logs.</li>
-        <li><b>Learning:</b> Currently exploring <i>Three.js</i> for 3D web.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&show_owner=true" align="right" width="350" />
 </div>
+
+> **Passionate Full-Stack Developer** based in the Philippines. I specialize in building high-performance web applications with a focus on clean architecture and sophisticated UI/UX aesthetics. Currently scaling inventory systems and exploring the intersection of 3D web graphics and traditional enterprise logic.
+
+* 🔭 **Focus:** Full-Stack Inventory Systems & Warehouse Management
+* 🚀 **Expertise:** React (Zustand/Redux), TypeScript, Node.js, & ESP32 IoT
+* 🎨 **Design:** Obsessed with Glassmorphism, Luxury Dark Themes, and Framer Motion
+* ⚡ **Motto:** "If it’s not performant, it’s not finished."
 
 ---
 
@@ -47,36 +32,34 @@
 
 <div align="center">
 
-**Languages & Core**
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,java,php" />
+| Category | stack |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Java` `PHP` `HTML5` `CSS3` |
+| **Frontend** | `React 19` `Tailwind CSS` `Zustand` `Framer Motion` `Three.js` |
+| **Backend** | `Node.js` `Express 5` `MongoDB` `PostgreSQL` `JWT` |
+| **DevOps/Tools** | `Git` `Docker` `Vite` `Postman` `Firebase` `Figma` |
 
-**Frontend Excellence**
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux,vite,threejs" />
+<br/>
 
-**Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman,firebase" />
-
-**Tools & Workflow**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma" />
-
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,nodejs,express,mongodb,threejs,docker,figma" />
 </div>
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052D4&icon_color=0052D4" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0052D4" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=0052D4&icon_color=0052D4&bg_color=0d1117" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=0052D4&bg_color=0d1117" height="170px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0052D4&ring=0052D4&fire=0052D4" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&stroke=0052D4&ring=0052D4&fire=0052D4&background=0d1117" width="100%" />
 </div>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Activity Pulse
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
