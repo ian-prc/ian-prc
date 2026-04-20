@@ -87,7 +87,7 @@
 
 | | |
 | :-- | :-- |
-|👀 **The Pressure**| Coding faster than a Grab rider kasi nakatayo si Supervisor sa likod ko.|
+|👀 **The Pressure**| Kunwari may hinahanp sa code kasi nakatayo si Supervisor sa likod ko. ano to monitor?|
 | 😱 **Worst fear** | PLDT "Red Light" during a git push of 50+ changed files.|
 | 💙 **Life lesson** | Ang git stash ay parang pagwawalis ng kalat sa ilalim ng kama bago pumasok si Mama.|
 | 🎯 **2026 Goal** | To understand my own code from 6 months ago without crying.|
@@ -107,30 +107,16 @@
 ---
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ianpurcia&hide_border=true&background=0a0a14&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=e0eeff&currStreakNum=e0eeff&sideNums=e0eeff&border_radius=6" width="60%"/>
-
 </div>
+
+---
+
 
 ---
 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ianpurcia&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-</div>
-
----
-
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://github.com/ianpurcia/ianpurcia/blob/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
@@ -162,11 +148,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=100&section=footer" width="100%"/>
-
-</div>
-
-<div align="center">
-
-_Built with ☕ Kopiko 78°C · Debugged with 🔍 `console.log` · Deployed with 🙏 prayers_
 
 </div>
