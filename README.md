@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <a href="[Insert Your Website or LinkedIn URL Here]">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1b3e,0a3a6b,1a6fb5,56b4f7&height=220&section=header&text=Ian%20Purcia&fontSize=70&fontColor=56b4f7&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=60&descSize=17&descColor=bfdbfe" width="100%" alt="Ian Purcia" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a14&height=220&section=header&text=Ian%20Purcia&fontSize=70&fontColor=3b82f6&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=60&descSize=17&descColor=93c5fd" width="100%" alt="Ian Purcia" />
   </a>
 </div>
 
