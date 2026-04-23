@@ -36,7 +36,7 @@
 {
   "name":      "Ian Purcia",
   "location":  "Philippines 🇵🇭",
-  "role":      "Student & Full-Stack Developer (in progress)",
+  "role":      "Student & Full-Stack Developer",
   "education": "Currently studying",
 
   "stack": {
