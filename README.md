@@ -13,11 +13,10 @@
 
 <!-- Typing animation -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=~/ianpurcia+%24+whoami;Student+%26+Full-Stack+Developer+(in+progress);Building+Tasked+%26+Confused+—+a+full-stack+task+manager;Because+my+own+life+needed+a+CRUD+app+%F0%9F%92%80)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&height=50&lines=%3E+whoami;Student+%26+Full-Stack+Developer;%3E+working-on;Tasked+%26+Confused;%3E+status;Life+needs+a+CRUD+app...;%3E+location;Philippines+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing SVG" />
+  </a>
 </div>
-
 ---
 
 <!-- Profile badges -->
