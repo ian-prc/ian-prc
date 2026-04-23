@@ -36,12 +36,6 @@
   "stack": {
     "frontend": ["React", "TypeScript", "Tailwind CSS", "Zustand"],
     "backend":  ["Node.js", "Express", "MongoDB", "Mongoose", "JWT"]
-  },
-
-  "currently": {
-    "learning":  "System design & scalable architectures",
-    "building":  "Projects that actually make it to production",
-    "debugging": "Something. Always something."
   }
 }
 ```
