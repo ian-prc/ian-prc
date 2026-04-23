@@ -25,10 +25,6 @@
 
 </div>
 
----
-
-## `$ cat about.json`
-
 ```json
 {
   "name":      "Ian Purcia",
@@ -52,7 +48,6 @@
 
 ---
 
-## `$ ls ./skills`
 
 <div align="center">
 
@@ -80,7 +75,6 @@
 
 ---
 
-## `$ cat ./logs/dev-life.log`
 
 <div align="center">
 
@@ -95,7 +89,6 @@
 
 ---
 
-## `$ git log --stat`
 
 <div align="center">
 
@@ -123,7 +116,6 @@
 
 ---
 
-## `$ fortune | cowsay`
 
 <div align="center">
 
@@ -144,7 +136,6 @@
 
 ---
 
-## `$ cat ./contact/README.md`
 
 <div align="center">
 
