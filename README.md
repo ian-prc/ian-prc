@@ -1,14 +1,5 @@
 <!-- Header -->
 <div align="center">
-
-<p align="center">
-  <a href="[Insert Your Website or LinkedIn URL Here]">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1d4ed8&height=200&section=header&text=Ian%20Purcia&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=16&descColor=bfdbfe" 
-         width="100%" 
-         alt="Ian Purcia, Full-Stack MERN Developer, Philippines" />
-  </a>
-</p>
-
 </div>
 
 ---
